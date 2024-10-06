@@ -1,2 +1,2 @@
-# Fabric_Azure_Machine_Learning
+# Fabric Azure Machine Learning
 Microsoft Fabric and Microsoft Azure Machine Learning
